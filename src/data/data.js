@@ -85,11 +85,11 @@ export const resume = {
       },
       {
         icon: `${prototype}`,
-        title: 'PEOTOTIPO',
+        title: 'PROTOTIPOS',
       },
       {
         icon: `${designT}`,
-        title: 'DESIGN THINGKING',
+        title: 'DESIGN THINKING',
       },
     ],
     node: [
