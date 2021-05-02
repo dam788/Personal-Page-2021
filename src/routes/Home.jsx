@@ -9,7 +9,7 @@ const Home = () => {
       >
         <button className='btn_downloadCV'>
           <i className='fi-rs-download'></i>
-          Download CV
+          Descargar CV
         </button>
       </a>
     </div>
